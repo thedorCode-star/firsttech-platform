@@ -1,0 +1,5 @@
+POPIA Condition,What It Means in a Cloud Environment,IT Consulting Action
+1. Accountability,"The FinTech remains liable for data, even when stored on a cloud (third-party operator).",Action: Review Cloud Provider Data Processing Addendums (DPAs) and establish clear SLAs.
+2. Processing Limitation,Data collection must be minimal and based on specific consent/legal justification.,Action: Implement Data Minimization strategies and enforce strong Role-Based Access Control (RBAC).
+7. Security Safeguards,"The Responsible Party must implement reasonable technical and organisational measures to prevent loss, damage, or unauthorized access.","Action: Implement encryption (at rest/in transit), multi-factor authentication (MFA), and audit logging."
+8. Openness,"The FinTech must document all processing activities (data location, use, etc.).",Action: Design a Data Inventory and Data Flow Mapping for the cloud environment.
