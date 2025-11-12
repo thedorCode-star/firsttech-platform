@@ -1,4 +1,4 @@
-# FinTech Platform - POPIA Compliant & High Availability
+# FirstTech Platform - POPIA Compliant & High Availability
 
 A comprehensive FinTech platform designed for South African compliance (POPIA) with High Availability cloud architecture.
 
